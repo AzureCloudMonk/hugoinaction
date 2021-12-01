@@ -1,3 +1,5 @@
+github.com/hugoinaction/AcmeCommon v0.0.0-20211108053825-d88e4afe9734 h1:3BfYizEkNqso2dh3Z3QbKAXJRty9GTt321evvYXnb7s=
+github.com/hugoinaction/AcmeCommon v0.0.0-20211108053825-d88e4afe9734/go.mod h1:C9/TZoRRcat2ivTzO1tKCA7nGni/8PyFIlvNPr3vOo4=
 github.com/hugoinaction/AcmeSupport v0.0.0-20211108053826-b457b01c6787 h1:EewhExivaHk8fvQ49WZg8NB2P+2z8vsKe0hqIH43+oU=
 github.com/hugoinaction/AcmeSupport v0.0.0-20211108053826-b457b01c6787/go.mod h1:kGNexn9VmQvIar/+RG6cW2Q1daLa/QPwWCLLX/N7gNA=
 github.com/hugoinaction/hugo-debug-utils v0.0.0-20211028054537-1bc4208d4235 h1:IM2+lsGrnHZ+gEAFIiVEXBWx6cbaNrn5khFQLLWdNws=
