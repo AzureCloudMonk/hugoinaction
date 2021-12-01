@@ -1,3 +1,5 @@
+github.com/gohugoio/hugo-mod-jslibs/instantpage v0.5.1 h1:Aig+0MOPXiuQNZpnxOMS4uwUsnyq41JnQzGW4Gk3o7Y=
+github.com/gohugoio/hugo-mod-jslibs/instantpage v0.5.1/go.mod h1:N4EUbbL7Cw4Yq+GHeK3MUSiOJQbzfuUFRyvBKvnVBR8=
 github.com/hugoinaction/AcmeCommon v0.0.0-20211108053825-d88e4afe9734 h1:3BfYizEkNqso2dh3Z3QbKAXJRty9GTt321evvYXnb7s=
 github.com/hugoinaction/AcmeCommon v0.0.0-20211108053825-d88e4afe9734/go.mod h1:C9/TZoRRcat2ivTzO1tKCA7nGni/8PyFIlvNPr3vOo4=
 github.com/hugoinaction/AcmeSupport v0.0.0-20211108053826-b457b01c6787 h1:EewhExivaHk8fvQ49WZg8NB2P+2z8vsKe0hqIH43+oU=
@@ -6,3 +8,5 @@ github.com/hugoinaction/TermsAndPrivacy v0.0.0-20200223231951-1c7c1972007a h1:pJ
 github.com/hugoinaction/TermsAndPrivacy v0.0.0-20200223231951-1c7c1972007a/go.mod h1:SKLyKoQovP9Eq2onrKoJg9nk2ncwqv5T6li5aMsD4/Q=
 github.com/hugoinaction/hugo-debug-utils v0.0.0-20211028054537-1bc4208d4235 h1:IM2+lsGrnHZ+gEAFIiVEXBWx6cbaNrn5khFQLLWdNws=
 github.com/hugoinaction/hugo-debug-utils v0.0.0-20211028054537-1bc4208d4235/go.mod h1:YA0Taxzbbqz9oEvtMUW/uuPRE2v93r0WPMLkWaqiuBs=
+github.com/instantpage/instant.page v5.1.0+incompatible h1:/Z2XRXfY5HwuCN3TTqo56PaFyIlDr4l3tyytR/jGHXI=
+github.com/instantpage/instant.page v5.1.0+incompatible/go.mod h1:GXVDktwI+K4T9o5mcK2NYDqPFxAUrB9U9goR9oG1SaI=
